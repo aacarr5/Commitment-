@@ -4,7 +4,6 @@
   "description": "A react application to help organizers follow up with commitments ",
   "main": "index.js",
     "scripts": {
-    "lint": "eslint js/**/*.js webpack.config.js",
     "build": "webpack",
     "watch": "npm run build -- --watch",
     "dev": "webpack-dev-server",

@@ -6,12 +6,21 @@ a {
 }
 
 .nav {
-	position: static;
-	top:0;
-	right:0;
-	left:0;
-	padding-bottom: 30px;
+	position: fixed;
+	margin-top: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	width: 100%;
+	height: 75px;
 	font-size: 25px;
+}
+
+#spacer {
+	width: 100%;
+	height: 30px;
+}
+
+.main {
 }
 
 .nav-item {
@@ -30,3 +39,5 @@ a {
 .nav-item:hover {
 	background-color: rgba(#0000FF,.6)
 }
+
+@import 'search.scss'

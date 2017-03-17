@@ -1,8 +1,18 @@
 import React from 'react'
 import FutureEventsShow from './FutureEventsShow.js'
-const { string, shape } = React.PropTypes
+const { string, shape, array } = React.PropTypes
 
 const ShowCom = React.createClass({
+	propTypes: {
+		com: shape({
+			firstName: string.isRequired,
+			lastName: string.isRequired,
+			phone: string.isRequired,
+			email: string.isRequired,
+			futureEvents: array.isRequired,
+		})
+	},
+
 	render () {
 		const {firstName, lastName, phone, email, protest, futureEvents} = this.props.com
 		return(
@@ -11,7 +21,7 @@ const ShowCom = React.createClass({
 				<h3>Phone: {phone} </h3>
 				<h3>Email: {email} </h3>
 				<h3>Protest: {`${protest}`}</h3>
-				{/*<FutureEventsShow events={futureEvents} />*/}
+				<FutureEventsShow events={futureEvents} />
 			</div>
 		)
 	}

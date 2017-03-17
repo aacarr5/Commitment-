@@ -1,474 +1,682 @@
 {
   "committments":[
   {
-    "id": "58cbf8fa2ae564389d6a9296",
-    "firstName": "Wilkerson",
-    "lastName": "Lott",
-    "phone": "+1 (953) 551-2705",
-    "email": "wilkersonlott@comvey.com",
-    "protest": false,
-    "bring": 2,
-    "nextLandL": true,
-    "duesPayingMember": false,
-    "organizer": "Mcfarland Bonner",
-    "futureEvents": [
-      "a"
-    ]
-  },
-  {
-    "id": "58cbf8fae133b4e12f3b4400",
-    "firstName": "Aurora",
-    "lastName": "Frank",
-    "phone": "+1 (855) 508-3233",
-    "email": "aurorafrank@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Marjorie Barton",
-    "futureEvents": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": "58cbf8fa1f4e3700d14f0a89",
-    "firstName": "Mccullough",
-    "lastName": "Guy",
-    "phone": "+1 (885) 450-2696",
-    "email": "mcculloughguy@comvey.com",
-    "protest": true,
-    "bring": 1,
-    "nextLandL": true,
-    "duesPayingMember": false,
-    "organizer": "Christy Hurley",
-    "futureEvents": [
-      "a"
-    ]
-  },
-  {
-    "id": "58cbf8fa91ccc987b0577bfa",
-    "firstName": "Hester",
-    "lastName": "Manning",
-    "phone": "+1 (895) 496-3841",
-    "email": "hestermanning@comvey.com",
+    "id": "58cc02fa4b9dc1ebc71a847a",
+    "firstName": "Maxwell",
+    "lastName": "Harris",
+    "phone": "+1 (983) 460-3122",
+    "email": "maxwellharris@comvey.com",
     "protest": true,
     "bring": 1,
     "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "Aguirre Dyer",
+    "duesPayingMember": true,
+    "organizer": "Robin Calderon",
     "futureEvents": [
-      "a",
-      "b",
-      "c",
-      "d"
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
     ]
   },
   {
-    "id": "58cbf8fab22c8fa6e3a213e9",
-    "firstName": "Constance",
-    "lastName": "Quinn",
-    "phone": "+1 (889) 560-3206",
-    "email": "constancequinn@comvey.com",
+    "id": "58cc02fa61dd489a075b25dc",
+    "firstName": "Paige",
+    "lastName": "Tyson",
+    "phone": "+1 (852) 459-3181",
+    "email": "paigetyson@comvey.com",
+    "protest": true,
+    "bring": 0,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Meyers Conley",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fafcf1978cbc11a2b5",
+    "firstName": "Erma",
+    "lastName": "Stephens",
+    "phone": "+1 (975) 497-2526",
+    "email": "ermastephens@comvey.com",
+    "protest": false,
+    "bring": 3,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Genevieve Hodge",
+    "futureEvents": []
+  },
+  {
+    "id": "58cc02fa10ea2399498c60f1",
+    "firstName": "Rasmussen",
+    "lastName": "Walls",
+    "phone": "+1 (949) 422-3076",
+    "email": "rasmussenwalls@comvey.com",
+    "protest": false,
+    "bring": 1,
+    "nextLandL": false,
+    "duesPayingMember": true,
+    "organizer": "Patti Hurley",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
+    ]
+  },
+  {
+    "id": "58cc02faf15340b85ddcaf4f",
+    "firstName": "Preston",
+    "lastName": "Barron",
+    "phone": "+1 (833) 440-3443",
+    "email": "prestonbarron@comvey.com",
+    "protest": true,
+    "bring": 4,
+    "nextLandL": false,
+    "duesPayingMember": true,
+    "organizer": "Lorna Britt",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      },
+      {
+        "id": 4,
+        "name": "Other"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa0b00b6bbabb6168d",
+    "firstName": "Melendez",
+    "lastName": "Malone",
+    "phone": "+1 (876) 533-3991",
+    "email": "melendezmalone@comvey.com",
+    "protest": false,
+    "bring": 3,
+    "nextLandL": true,
+    "duesPayingMember": true,
+    "organizer": "Shelton Olsen",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa76c0d5fadf6ffc00",
+    "firstName": "Morrison",
+    "lastName": "Moses",
+    "phone": "+1 (958) 426-2788",
+    "email": "morrisonmoses@comvey.com",
+    "protest": false,
+    "bring": 4,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Josefa Wright",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      },
+      {
+        "id": 4,
+        "name": "Other"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa83d6a246797df714",
+    "firstName": "Campbell",
+    "lastName": "Scott",
+    "phone": "+1 (969) 463-3342",
+    "email": "campbellscott@comvey.com",
+    "protest": true,
+    "bring": 3,
+    "nextLandL": true,
+    "duesPayingMember": true,
+    "organizer": "Carrillo Fuller",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      },
+      {
+        "id": 4,
+        "name": "Other"
+      }
+    ]
+  },
+  {
+    "id": "58cc02faa27c33317f6334d6",
+    "firstName": "Liliana",
+    "lastName": "Boyle",
+    "phone": "+1 (826) 483-3391",
+    "email": "lilianaboyle@comvey.com",
+    "protest": false,
+    "bring": 2,
+    "nextLandL": true,
+    "duesPayingMember": false,
+    "organizer": "Lindsay Jones",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      },
+      {
+        "id": 4,
+        "name": "Other"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa263a33dd4aeebe3b",
+    "firstName": "Marcella",
+    "lastName": "Norton",
+    "phone": "+1 (911) 535-3041",
+    "email": "marcellanorton@comvey.com",
+    "protest": false,
+    "bring": 2,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Clemons Foley",
+    "futureEvents": []
+  },
+  {
+    "id": "58cc02fab45535706848c5c1",
+    "firstName": "Staci",
+    "lastName": "Thomas",
+    "phone": "+1 (967) 420-3957",
+    "email": "stacithomas@comvey.com",
+    "protest": false,
+    "bring": 1,
+    "nextLandL": false,
+    "duesPayingMember": true,
+    "organizer": "Meyer Charles",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
+    ]
+  },
+  {
+    "id": "58cc02faf2a7ed5c54249420",
+    "firstName": "Clayton",
+    "lastName": "Norman",
+    "phone": "+1 (890) 400-3953",
+    "email": "claytonnorman@comvey.com",
+    "protest": false,
+    "bring": 0,
+    "nextLandL": true,
+    "duesPayingMember": true,
+    "organizer": "Johnston Daniel",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa78d08cb55d822bde",
+    "firstName": "Gutierrez",
+    "lastName": "Perez",
+    "phone": "+1 (910) 450-3176",
+    "email": "gutierrezperez@comvey.com",
+    "protest": false,
+    "bring": 2,
+    "nextLandL": true,
+    "duesPayingMember": false,
+    "organizer": "Noelle Dunn",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      },
+      {
+        "id": 4,
+        "name": "Other"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa976c6d481ec5a826",
+    "firstName": "Frazier",
+    "lastName": "Jefferson",
+    "phone": "+1 (885) 509-2694",
+    "email": "frazierjefferson@comvey.com",
+    "protest": false,
+    "bring": 3,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Bowen Snider",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fadabb5108e65975e7",
+    "firstName": "Chapman",
+    "lastName": "Fuentes",
+    "phone": "+1 (826) 477-3458",
+    "email": "chapmanfuentes@comvey.com",
+    "protest": true,
+    "bring": 3,
+    "nextLandL": false,
+    "duesPayingMember": true,
+    "organizer": "Alberta Richard",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fac8b25bdc6f698073",
+    "firstName": "Freida",
+    "lastName": "Erickson",
+    "phone": "+1 (918) 580-2100",
+    "email": "freidaerickson@comvey.com",
+    "protest": true,
+    "bring": 0,
+    "nextLandL": true,
+    "duesPayingMember": true,
+    "organizer": "Crawford Fletcher",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02faaf61c24621918f88",
+    "firstName": "Kerry",
+    "lastName": "Cochran",
+    "phone": "+1 (854) 575-2756",
+    "email": "kerrycochran@comvey.com",
+    "protest": true,
+    "bring": 0,
+    "nextLandL": true,
+    "duesPayingMember": false,
+    "organizer": "Pam Randall",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa8fdda16ea132b30a",
+    "firstName": "Millie",
+    "lastName": "Guzman",
+    "phone": "+1 (833) 410-2799",
+    "email": "millieguzman@comvey.com",
+    "protest": false,
+    "bring": 3,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Solomon Sparks",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa67f5c5e71e16a52e",
+    "firstName": "Ruby",
+    "lastName": "Emerson",
+    "phone": "+1 (810) 525-3380",
+    "email": "rubyemerson@comvey.com",
+    "protest": false,
+    "bring": 1,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Natalia Winters",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      },
+      {
+        "id": 4,
+        "name": "Other"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa25f22cbf176df20c",
+    "firstName": "Valentine",
+    "lastName": "Hunt",
+    "phone": "+1 (805) 590-3229",
+    "email": "valentinehunt@comvey.com",
+    "protest": true,
+    "bring": 4,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Rivas Webster",
+    "futureEvents": []
+  },
+  {
+    "id": "58cc02fa70f6a2e12c4f190b",
+    "firstName": "Helene",
+    "lastName": "Odonnell",
+    "phone": "+1 (913) 507-3157",
+    "email": "heleneodonnell@comvey.com",
+    "protest": false,
+    "bring": 4,
+    "nextLandL": true,
+    "duesPayingMember": true,
+    "organizer": "Earline Carver",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fab6e8013a451905cd",
+    "firstName": "Mccray",
+    "lastName": "Rich",
+    "phone": "+1 (894) 588-2782",
+    "email": "mccrayrich@comvey.com",
+    "protest": false,
+    "bring": 1,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Walsh Suarez",
+    "futureEvents": []
+  },
+  {
+    "id": "58cc02fab78a6d22f16c1f45",
+    "firstName": "Rose",
+    "lastName": "Mckay",
+    "phone": "+1 (966) 568-2273",
+    "email": "rosemckay@comvey.com",
+    "protest": true,
+    "bring": 1,
+    "nextLandL": false,
+    "duesPayingMember": true,
+    "organizer": "Bette Holland",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
+    ]
+  },
+  {
+    "id": "58cc02faf126cebf08ff2708",
+    "firstName": "Williamson",
+    "lastName": "Carroll",
+    "phone": "+1 (960) 559-2991",
+    "email": "williamsoncarroll@comvey.com",
+    "protest": true,
+    "bring": 2,
+    "nextLandL": true,
+    "duesPayingMember": false,
+    "organizer": "Terrell Velez",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
+    ]
+  },
+  {
+    "id": "58cc02faf80bf7f113378e84",
+    "firstName": "Letha",
+    "lastName": "Waller",
+    "phone": "+1 (896) 446-2178",
+    "email": "lethawaller@comvey.com",
+    "protest": false,
+    "bring": 3,
+    "nextLandL": true,
+    "duesPayingMember": false,
+    "organizer": "Sheppard Schwartz",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa44c587a136a2da35",
+    "firstName": "Vicki",
+    "lastName": "Morris",
+    "phone": "+1 (866) 552-2064",
+    "email": "vickimorris@comvey.com",
     "protest": false,
     "bring": 1,
     "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Rios Daniel",
+    "duesPayingMember": false,
+    "organizer": "Janet Miranda",
     "futureEvents": []
   },
   {
-    "id": "58cbf8fa491afe301aebfa26",
-    "firstName": "Rosemary",
-    "lastName": "Chapman",
-    "phone": "+1 (975) 598-3766",
-    "email": "rosemarychapman@comvey.com",
-    "protest": true,
-    "bring": 0,
-    "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "Rivera Blevins",
-    "futureEvents": [
-      "a"
-    ]
-  },
-  {
-    "id": "58cbf8fa018a4b47a7cf59c4",
-    "firstName": "Hood",
-    "lastName": "Sanders",
-    "phone": "+1 (897) 504-2883",
-    "email": "hoodsanders@comvey.com",
-    "protest": true,
-    "bring": 0,
-    "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "Jo Rich",
-    "futureEvents": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": "58cbf8fab27c628b856aa7e6",
-    "firstName": "Mccoy",
-    "lastName": "Barber",
-    "phone": "+1 (970) 502-3717",
-    "email": "mccoybarber@comvey.com",
+    "id": "58cc02fa1cb05c7fb4cdc625",
+    "firstName": "Vaughan",
+    "lastName": "Acevedo",
+    "phone": "+1 (984) 543-3325",
+    "email": "vaughanacevedo@comvey.com",
     "protest": false,
     "bring": 0,
-    "nextLandL": false,
+    "nextLandL": true,
     "duesPayingMember": true,
-    "organizer": "Rice Mcmahon",
+    "organizer": "Alejandra Horton",
     "futureEvents": [
-      "a",
-      "b"
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
     ]
   },
   {
-    "id": "58cbf8fa5caa8d099b07eada",
-    "firstName": "Barnes",
-    "lastName": "Conway",
-    "phone": "+1 (971) 557-2507",
-    "email": "barnesconway@comvey.com",
+    "id": "58cc02fae4affe552dc88165",
+    "firstName": "Benita",
+    "lastName": "Delgado",
+    "phone": "+1 (927) 481-3950",
+    "email": "benitadelgado@comvey.com",
     "protest": true,
-    "bring": 0,
-    "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "House Hurst",
-    "futureEvents": []
-  },
-  {
-    "id": "58cbf8fa59062b67e12ffaf0",
-    "firstName": "Hebert",
-    "lastName": "Clayton",
-    "phone": "+1 (847) 516-2776",
-    "email": "hebertclayton@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Maureen Golden",
-    "futureEvents": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ]
-  },
-  {
-    "id": "58cbf8faae93c1b05d7bcdcd",
-    "firstName": "Madeleine",
-    "lastName": "Goodman",
-    "phone": "+1 (942) 434-3366",
-    "email": "madeleinegoodman@comvey.com",
-    "protest": true,
-    "bring": 3,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Kaye Albert",
-    "futureEvents": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": "58cbf8faf6d3146826ddbd08",
-    "firstName": "Lindsay",
-    "lastName": "Charles",
-    "phone": "+1 (838) 592-3349",
-    "email": "lindsaycharles@comvey.com",
-    "protest": false,
-    "bring": 2,
-    "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "Jaclyn Allison",
-    "futureEvents": [
-      "a"
-    ]
-  },
-  {
-    "id": "58cbf8faa7bc3c0feb0e7d06",
-    "firstName": "Claudine",
-    "lastName": "Nash",
-    "phone": "+1 (990) 438-2309",
-    "email": "claudinenash@comvey.com",
-    "protest": true,
-    "bring": 4,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Rochelle Mcgee",
-    "futureEvents": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": "58cbf8fa775e23ed05d3d9e0",
-    "firstName": "Gilbert",
-    "lastName": "Benton",
-    "phone": "+1 (824) 553-2493",
-    "email": "gilbertbenton@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Louise Cunningham",
-    "futureEvents": []
-  },
-  {
-    "id": "58cbf8faec02e2a7b8014d7b",
-    "firstName": "Dale",
-    "lastName": "Cantu",
-    "phone": "+1 (866) 469-3734",
-    "email": "dalecantu@comvey.com",
-    "protest": false,
-    "bring": 3,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Hurley Schroeder",
-    "futureEvents": [
-      "a"
-    ]
-  },
-  {
-    "id": "58cbf8fa0ae4d329d6fe2015",
-    "firstName": "Trujillo",
-    "lastName": "Melendez",
-    "phone": "+1 (942) 421-3664",
-    "email": "trujillomelendez@comvey.com",
-    "protest": true,
-    "bring": 3,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Reyes Downs",
-    "futureEvents": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": "58cbf8faa67d3eed7efc3496",
-    "firstName": "Gentry",
-    "lastName": "Summers",
-    "phone": "+1 (830) 468-2521",
-    "email": "gentrysummers@comvey.com",
-    "protest": false,
-    "bring": 4,
+    "bring": 1,
     "nextLandL": true,
     "duesPayingMember": true,
-    "organizer": "Mildred Wheeler",
+    "organizer": "Sheree Valencia",
     "futureEvents": [
-      "a",
-      "b",
-      "c"
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      },
+      {
+        "id": 3,
+        "name": "Volunteering"
+      }
     ]
   },
   {
-    "id": "58cbf8fa5fc92ff408d86b66",
-    "firstName": "Stein",
-    "lastName": "Parks",
-    "phone": "+1 (843) 500-2513",
-    "email": "steinparks@comvey.com",
-    "protest": false,
-    "bring": 2,
-    "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Katrina Rios",
-    "futureEvents": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": "58cbf8fa0defcb7ece73b894",
-    "firstName": "Avery",
-    "lastName": "Browning",
-    "phone": "+1 (865) 600-2508",
-    "email": "averybrowning@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": true,
-    "duesPayingMember": false,
-    "organizer": "Latonya Moon",
-    "futureEvents": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": "58cbf8facb0f5d5766e886ce",
-    "firstName": "Dixon",
-    "lastName": "Adkins",
-    "phone": "+1 (978) 572-3189",
-    "email": "dixonadkins@comvey.com",
-    "protest": true,
-    "bring": 2,
-    "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Roach Lewis",
-    "futureEvents": []
-  },
-  {
-    "id": "58cbf8fa82eecfdcca26eb36",
-    "firstName": "Wells",
-    "lastName": "Austin",
-    "phone": "+1 (929) 543-2903",
-    "email": "wellsaustin@comvey.com",
-    "protest": false,
-    "bring": 2,
-    "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "Cora Clark",
-    "futureEvents": []
-  },
-  {
-    "id": "58cbf8fab7c9063a09444bb1",
-    "firstName": "Maricela",
-    "lastName": "Vazquez",
-    "phone": "+1 (877) 418-2531",
-    "email": "maricelavazquez@comvey.com",
-    "protest": true,
-    "bring": 2,
-    "nextLandL": false,
-    "duesPayingMember": true,
-    "organizer": "Bernadette Wilcox",
-    "futureEvents": [
-      "a",
-      "b",
-      "c",
-      "d"
-    ]
-  },
-  {
-    "id": "58cbf8fa4d6a726dd7b0352e",
-    "firstName": "Christie",
-    "lastName": "Brennan",
-    "phone": "+1 (934) 558-3829",
-    "email": "christiebrennan@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": false,
-    "duesPayingMember": false,
-    "organizer": "Ferrell Bray",
-    "futureEvents": []
-  },
-  {
-    "id": "58cbf8fa5bcc9d770c94efa6",
-    "firstName": "Shields",
-    "lastName": "Finley",
-    "phone": "+1 (928) 530-3581",
-    "email": "shieldsfinley@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Parker Schwartz",
-    "futureEvents": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": "58cbf8faa42e1d5c3fbc2cc4",
-    "firstName": "Monroe",
-    "lastName": "Woodward",
-    "phone": "+1 (829) 557-2321",
-    "email": "monroewoodward@comvey.com",
-    "protest": true,
-    "bring": 2,
-    "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Duncan Singleton",
-    "futureEvents": [
-      "a",
-      "b"
-    ]
-  },
-  {
-    "id": "58cbf8fac40afc2bdc6814c7",
-    "firstName": "Morgan",
-    "lastName": "Gonzalez",
-    "phone": "+1 (966) 478-3163",
-    "email": "morgangonzalez@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": true,
-    "duesPayingMember": false,
-    "organizer": "Bernice Cameron",
-    "futureEvents": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": "58cbf8fa23710abf97e31935",
-    "firstName": "Shelton",
-    "lastName": "Mcleod",
-    "phone": "+1 (858) 429-3624",
-    "email": "sheltonmcleod@comvey.com",
-    "protest": false,
-    "bring": 3,
-    "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Hayden Pennington",
-    "futureEvents": [
-      "a"
-    ]
-  },
-  {
-    "id": "58cbf8fa45dcc6eaad56ede7",
-    "firstName": "Josefina",
+    "id": "58cc02fa9eb0bffefa4c6e38",
+    "firstName": "Kemp",
     "lastName": "Orr",
-    "phone": "+1 (840) 438-3683",
-    "email": "josefinaorr@comvey.com",
-    "protest": false,
-    "bring": 4,
-    "nextLandL": true,
-    "duesPayingMember": true,
-    "organizer": "Brandy Walton",
-    "futureEvents": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": "58cbf8faa8f987552b31c954",
-    "firstName": "Blanchard",
-    "lastName": "Fernandez",
-    "phone": "+1 (921) 423-2317",
-    "email": "blanchardfernandez@comvey.com",
-    "protest": true,
-    "bring": 3,
-    "nextLandL": true,
-    "duesPayingMember": false,
-    "organizer": "Tania Gallegos",
-    "futureEvents": [
-      "a",
-      "b",
-      "c"
-    ]
-  },
-  {
-    "id": "58cbf8faf4b2c49131d3b12b",
-    "firstName": "Fleming",
-    "lastName": "Black",
-    "phone": "+1 (851) 461-2876",
-    "email": "flemingblack@comvey.com",
+    "phone": "+1 (994) 440-2004",
+    "email": "kemporr@comvey.com",
     "protest": true,
     "bring": 1,
     "nextLandL": true,
     "duesPayingMember": true,
-    "organizer": "Cantrell Frazier",
+    "organizer": "Ortega Mccall",
     "futureEvents": [
-      "a",
-      "b",
-      "c",
-      "d"
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      },
+      {
+        "id": 2,
+        "name": "Planet and People First Demonstration"
+      }
+    ]
+  },
+  {
+    "id": "58cc02fa7b8df7d3b08aaa84",
+    "firstName": "Fleming",
+    "lastName": "Cannon",
+    "phone": "+1 (916) 421-2466",
+    "email": "flemingcannon@comvey.com",
+    "protest": false,
+    "bring": 0,
+    "nextLandL": false,
+    "duesPayingMember": false,
+    "organizer": "Gould Livingston",
+    "futureEvents": [
+      {
+        "id": 1,
+        "name": "Trump Tuesday Protest"
+      }
     ]
   }
 ]

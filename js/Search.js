@@ -9,7 +9,7 @@ const Search = React.createClass({
 			<div className='search'>
 				{preLoad.committments.map((com) => {
 					return(
-						<ShowCom key={com.id} com={com}/>
+						<ShowCom key={com.id} {...com} />
 					)
 				})}
 			</div>

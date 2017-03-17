@@ -3,7 +3,7 @@
   {
     "id": "58cbf8fa2ae564389d6a9296",
     "firstName": "Wilkerson",
-    "LastName": "Lott",
+    "lastName": "Lott",
     "phone": "+1 (953) 551-2705",
     "email": "wilkersonlott@comvey.com",
     "protest": false,
@@ -11,14 +11,14 @@
     "nextLandL": true,
     "duesPayingMember": false,
     "organizer": "Mcfarland Bonner",
-    "favoriteFruit": [
+    "futureEvents": [
       "a"
     ]
   },
   {
     "id": "58cbf8fae133b4e12f3b4400",
     "firstName": "Aurora",
-    "LastName": "Frank",
+    "lastName": "Frank",
     "phone": "+1 (855) 508-3233",
     "email": "aurorafrank@comvey.com",
     "protest": false,
@@ -26,7 +26,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Marjorie Barton",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -35,7 +35,7 @@
   {
     "id": "58cbf8fa1f4e3700d14f0a89",
     "firstName": "Mccullough",
-    "LastName": "Guy",
+    "lastName": "Guy",
     "phone": "+1 (885) 450-2696",
     "email": "mcculloughguy@comvey.com",
     "protest": true,
@@ -43,14 +43,14 @@
     "nextLandL": true,
     "duesPayingMember": false,
     "organizer": "Christy Hurley",
-    "favoriteFruit": [
+    "futureEvents": [
       "a"
     ]
   },
   {
     "id": "58cbf8fa91ccc987b0577bfa",
     "firstName": "Hester",
-    "LastName": "Manning",
+    "lastName": "Manning",
     "phone": "+1 (895) 496-3841",
     "email": "hestermanning@comvey.com",
     "protest": true,
@@ -58,7 +58,7 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "Aguirre Dyer",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c",
@@ -68,7 +68,7 @@
   {
     "id": "58cbf8fab22c8fa6e3a213e9",
     "firstName": "Constance",
-    "LastName": "Quinn",
+    "lastName": "Quinn",
     "phone": "+1 (889) 560-3206",
     "email": "constancequinn@comvey.com",
     "protest": false,
@@ -76,12 +76,12 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Rios Daniel",
-    "favoriteFruit": []
+    "futureEvents": []
   },
   {
     "id": "58cbf8fa491afe301aebfa26",
     "firstName": "Rosemary",
-    "LastName": "Chapman",
+    "lastName": "Chapman",
     "phone": "+1 (975) 598-3766",
     "email": "rosemarychapman@comvey.com",
     "protest": true,
@@ -89,14 +89,14 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "Rivera Blevins",
-    "favoriteFruit": [
+    "futureEvents": [
       "a"
     ]
   },
   {
     "id": "58cbf8fa018a4b47a7cf59c4",
     "firstName": "Hood",
-    "LastName": "Sanders",
+    "lastName": "Sanders",
     "phone": "+1 (897) 504-2883",
     "email": "hoodsanders@comvey.com",
     "protest": true,
@@ -104,7 +104,7 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "Jo Rich",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -113,7 +113,7 @@
   {
     "id": "58cbf8fab27c628b856aa7e6",
     "firstName": "Mccoy",
-    "LastName": "Barber",
+    "lastName": "Barber",
     "phone": "+1 (970) 502-3717",
     "email": "mccoybarber@comvey.com",
     "protest": false,
@@ -121,7 +121,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Rice Mcmahon",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -129,7 +129,7 @@
   {
     "id": "58cbf8fa5caa8d099b07eada",
     "firstName": "Barnes",
-    "LastName": "Conway",
+    "lastName": "Conway",
     "phone": "+1 (971) 557-2507",
     "email": "barnesconway@comvey.com",
     "protest": true,
@@ -137,12 +137,12 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "House Hurst",
-    "favoriteFruit": []
+    "futureEvents": []
   },
   {
     "id": "58cbf8fa59062b67e12ffaf0",
     "firstName": "Hebert",
-    "LastName": "Clayton",
+    "lastName": "Clayton",
     "phone": "+1 (847) 516-2776",
     "email": "hebertclayton@comvey.com",
     "protest": false,
@@ -150,7 +150,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Maureen Golden",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c",
@@ -160,7 +160,7 @@
   {
     "id": "58cbf8faae93c1b05d7bcdcd",
     "firstName": "Madeleine",
-    "LastName": "Goodman",
+    "lastName": "Goodman",
     "phone": "+1 (942) 434-3366",
     "email": "madeleinegoodman@comvey.com",
     "protest": true,
@@ -168,7 +168,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Kaye Albert",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -176,7 +176,7 @@
   {
     "id": "58cbf8faf6d3146826ddbd08",
     "firstName": "Lindsay",
-    "LastName": "Charles",
+    "lastName": "Charles",
     "phone": "+1 (838) 592-3349",
     "email": "lindsaycharles@comvey.com",
     "protest": false,
@@ -184,14 +184,14 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "Jaclyn Allison",
-    "favoriteFruit": [
+    "futureEvents": [
       "a"
     ]
   },
   {
     "id": "58cbf8faa7bc3c0feb0e7d06",
     "firstName": "Claudine",
-    "LastName": "Nash",
+    "lastName": "Nash",
     "phone": "+1 (990) 438-2309",
     "email": "claudinenash@comvey.com",
     "protest": true,
@@ -199,7 +199,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Rochelle Mcgee",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -207,7 +207,7 @@
   {
     "id": "58cbf8fa775e23ed05d3d9e0",
     "firstName": "Gilbert",
-    "LastName": "Benton",
+    "lastName": "Benton",
     "phone": "+1 (824) 553-2493",
     "email": "gilbertbenton@comvey.com",
     "protest": false,
@@ -215,12 +215,12 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Louise Cunningham",
-    "favoriteFruit": []
+    "futureEvents": []
   },
   {
     "id": "58cbf8faec02e2a7b8014d7b",
     "firstName": "Dale",
-    "LastName": "Cantu",
+    "lastName": "Cantu",
     "phone": "+1 (866) 469-3734",
     "email": "dalecantu@comvey.com",
     "protest": false,
@@ -228,14 +228,14 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Hurley Schroeder",
-    "favoriteFruit": [
+    "futureEvents": [
       "a"
     ]
   },
   {
     "id": "58cbf8fa0ae4d329d6fe2015",
     "firstName": "Trujillo",
-    "LastName": "Melendez",
+    "lastName": "Melendez",
     "phone": "+1 (942) 421-3664",
     "email": "trujillomelendez@comvey.com",
     "protest": true,
@@ -243,7 +243,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Reyes Downs",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -251,7 +251,7 @@
   {
     "id": "58cbf8faa67d3eed7efc3496",
     "firstName": "Gentry",
-    "LastName": "Summers",
+    "lastName": "Summers",
     "phone": "+1 (830) 468-2521",
     "email": "gentrysummers@comvey.com",
     "protest": false,
@@ -259,7 +259,7 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Mildred Wheeler",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -268,7 +268,7 @@
   {
     "id": "58cbf8fa5fc92ff408d86b66",
     "firstName": "Stein",
-    "LastName": "Parks",
+    "lastName": "Parks",
     "phone": "+1 (843) 500-2513",
     "email": "steinparks@comvey.com",
     "protest": false,
@@ -276,7 +276,7 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Katrina Rios",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -284,7 +284,7 @@
   {
     "id": "58cbf8fa0defcb7ece73b894",
     "firstName": "Avery",
-    "LastName": "Browning",
+    "lastName": "Browning",
     "phone": "+1 (865) 600-2508",
     "email": "averybrowning@comvey.com",
     "protest": false,
@@ -292,7 +292,7 @@
     "nextLandL": true,
     "duesPayingMember": false,
     "organizer": "Latonya Moon",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -301,7 +301,7 @@
   {
     "id": "58cbf8facb0f5d5766e886ce",
     "firstName": "Dixon",
-    "LastName": "Adkins",
+    "lastName": "Adkins",
     "phone": "+1 (978) 572-3189",
     "email": "dixonadkins@comvey.com",
     "protest": true,
@@ -309,12 +309,12 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Roach Lewis",
-    "favoriteFruit": []
+    "futureEvents": []
   },
   {
     "id": "58cbf8fa82eecfdcca26eb36",
     "firstName": "Wells",
-    "LastName": "Austin",
+    "lastName": "Austin",
     "phone": "+1 (929) 543-2903",
     "email": "wellsaustin@comvey.com",
     "protest": false,
@@ -322,12 +322,12 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "Cora Clark",
-    "favoriteFruit": []
+    "futureEvents": []
   },
   {
     "id": "58cbf8fab7c9063a09444bb1",
     "firstName": "Maricela",
-    "LastName": "Vazquez",
+    "lastName": "Vazquez",
     "phone": "+1 (877) 418-2531",
     "email": "maricelavazquez@comvey.com",
     "protest": true,
@@ -335,7 +335,7 @@
     "nextLandL": false,
     "duesPayingMember": true,
     "organizer": "Bernadette Wilcox",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c",
@@ -345,7 +345,7 @@
   {
     "id": "58cbf8fa4d6a726dd7b0352e",
     "firstName": "Christie",
-    "LastName": "Brennan",
+    "lastName": "Brennan",
     "phone": "+1 (934) 558-3829",
     "email": "christiebrennan@comvey.com",
     "protest": false,
@@ -353,12 +353,12 @@
     "nextLandL": false,
     "duesPayingMember": false,
     "organizer": "Ferrell Bray",
-    "favoriteFruit": []
+    "futureEvents": []
   },
   {
     "id": "58cbf8fa5bcc9d770c94efa6",
     "firstName": "Shields",
-    "LastName": "Finley",
+    "lastName": "Finley",
     "phone": "+1 (928) 530-3581",
     "email": "shieldsfinley@comvey.com",
     "protest": false,
@@ -366,7 +366,7 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Parker Schwartz",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -374,7 +374,7 @@
   {
     "id": "58cbf8faa42e1d5c3fbc2cc4",
     "firstName": "Monroe",
-    "LastName": "Woodward",
+    "lastName": "Woodward",
     "phone": "+1 (829) 557-2321",
     "email": "monroewoodward@comvey.com",
     "protest": true,
@@ -382,7 +382,7 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Duncan Singleton",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b"
     ]
@@ -390,7 +390,7 @@
   {
     "id": "58cbf8fac40afc2bdc6814c7",
     "firstName": "Morgan",
-    "LastName": "Gonzalez",
+    "lastName": "Gonzalez",
     "phone": "+1 (966) 478-3163",
     "email": "morgangonzalez@comvey.com",
     "protest": false,
@@ -398,7 +398,7 @@
     "nextLandL": true,
     "duesPayingMember": false,
     "organizer": "Bernice Cameron",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -407,7 +407,7 @@
   {
     "id": "58cbf8fa23710abf97e31935",
     "firstName": "Shelton",
-    "LastName": "Mcleod",
+    "lastName": "Mcleod",
     "phone": "+1 (858) 429-3624",
     "email": "sheltonmcleod@comvey.com",
     "protest": false,
@@ -415,14 +415,14 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Hayden Pennington",
-    "favoriteFruit": [
+    "futureEvents": [
       "a"
     ]
   },
   {
     "id": "58cbf8fa45dcc6eaad56ede7",
     "firstName": "Josefina",
-    "LastName": "Orr",
+    "lastName": "Orr",
     "phone": "+1 (840) 438-3683",
     "email": "josefinaorr@comvey.com",
     "protest": false,
@@ -430,7 +430,7 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Brandy Walton",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -439,7 +439,7 @@
   {
     "id": "58cbf8faa8f987552b31c954",
     "firstName": "Blanchard",
-    "LastName": "Fernandez",
+    "lastName": "Fernandez",
     "phone": "+1 (921) 423-2317",
     "email": "blanchardfernandez@comvey.com",
     "protest": true,
@@ -447,7 +447,7 @@
     "nextLandL": true,
     "duesPayingMember": false,
     "organizer": "Tania Gallegos",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c"
@@ -456,7 +456,7 @@
   {
     "id": "58cbf8faf4b2c49131d3b12b",
     "firstName": "Fleming",
-    "LastName": "Black",
+    "lastName": "Black",
     "phone": "+1 (851) 461-2876",
     "email": "flemingblack@comvey.com",
     "protest": true,
@@ -464,7 +464,7 @@
     "nextLandL": true,
     "duesPayingMember": true,
     "organizer": "Cantrell Frazier",
-    "favoriteFruit": [
+    "futureEvents": [
       "a",
       "b",
       "c",

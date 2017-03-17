@@ -10,7 +10,8 @@ module.exports = {
   },
   devServer: {
     publicPath: '/public/',
-    historyApiFallback: true
+    historyApiFallback: true,
+    stats: 'errors-only'
   },
   resolve: {
     extensions: ['.js', '.json']

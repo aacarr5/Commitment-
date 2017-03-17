@@ -2,6 +2,8 @@ import React from 'react'
 import { render } from 'react-dom'
 import { BrowserRouter, Match} from 'react-router'
 
+
+
 import Landing  from './Landing.js'
 import Search from './Search.js'
 
@@ -18,8 +20,10 @@ const App = React.createClass({
 						<li className="nav-item"><a href="https://www.linkedin.com/in/andrewacarr">Andrew Carr</a> </li>
 						<li className="nav-item"><a href="http://www.reclaimchicago.org/">Reclaim Chicago</a> </li>
 					</ul>
-					<Match exactly pattern='/' component={Landing} />
-					<Match exactly pattern='/search' component={Search}/>
+					<div className="main">
+						<Match exactly pattern='/' component={Landing} />
+						<Match exactly pattern='/search' component={Search}/>
+					</div>
 				</div>
 			</BrowserRouter>
 		)

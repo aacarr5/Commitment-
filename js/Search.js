@@ -1,10 +1,18 @@
 import React from 'react'
+import preLoad from '../public/data.json'
+import ShowCom from './ShowCom.js'
 
 
 const Search = React.createClass({
 	render () {
 		return(
-			<h1>Hello from Search </h1>
+			<div className='search'>
+				{preLoad.committments.map((com) => {
+					return(
+						<ShowCom key={com.id} com={com}/>
+					)
+				})}
+			</div>
 		)
 	}
 })

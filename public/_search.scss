@@ -1,3 +1,33 @@
 .com-detail {
-	border: 1px solid black
+	border: 1px solid black;
+	width: 45%;
+	float:left;
+  margin-left: 2.5%;
+  margin-bottom: 10px;
+  height: 250px;
+  padding-left:25px;
+}
+
+.search-header {
+	h1 {
+		display: inline;
+		margin-left: 2.5%;
+	}
+}
+
+.events {
+	margin:0;
+	padding:0;
+}
+
+.event {
+	display: inline-block;
+	vertical-align:top;
+	overflow:auto;
+	border: 1px solid black;
+	margin: 0 0 20px 19px;
+}
+
+.event-list {
+	padding-left: 0px;
 }

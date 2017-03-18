@@ -7,6 +7,7 @@ import { BrowserRouter, Match} from 'react-router'
 import Landing  from './Landing.js'
 import Search from './Search.js'
 
+import '../public/reset.scss'
 import '../public/normalize.css'
 import '../public/style.scss'
 

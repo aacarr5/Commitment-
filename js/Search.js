@@ -14,9 +14,9 @@ const Search = React.createClass({
 		this.setState({searchTerm:event.target.value})
 	},
 
-	filerResults (array) {
-		array.filter( (com) => {
-			return `${com.firstName} ${com.lastName} ${com.email}`.toUpperCase().indexOf(this.state.searchTerm.toUpperCase()) >= 0
+	filterResults (term,array) {
+		return array.filter( (com) => {
+			return `${com.firstName} ${com.lastName} ${com.email}`.toUpperCase().indexOf(term.toUpperCase()) >= 0
 		})
 	},
 
@@ -26,10 +26,8 @@ const Search = React.createClass({
 				<header className="search-header">
 					<h1> Search:</h1>
 					<input onChange={this.handleSeachTermChange} className="search-input" value={this.state.searchTerm} type="text" placeholder='search' />					
-				</header>
-				{preLoad.committments.filter((com) => {
-					return `${com.firstName} ${com.lastName} ${com.email}`.toUpperCase().indexOf(this.state.searchTerm.toUpperCase()) >= 0
-				}).map((com) => {
+				</header> 
+				{this.filterResults(this.state.searchTerm,preLoad.committments).map((com) => {
 					return(
 						<ShowCom key={com.id} {...com} />
 					)

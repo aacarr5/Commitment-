@@ -1,0 +1,716 @@
+exports[`test Search Snapshot Test 1`] = `
+<div
+  className="search">
+  <header
+    className="search-header">
+    <h1>
+      Search:
+    </h1>
+    <input
+      className="search-input"
+      onChange={[Function bound handleSeachTermChange]}
+      placeholder="search"
+      type="text"
+      value="" />
+  </header>
+  <ShowCom
+    bring={1}
+    duesPayingMember={true}
+    email="maxwellharris@comvey.com"
+    firstName="Maxwell"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02fa4b9dc1ebc71a847a"
+    lastName="Harris"
+    nextLandL={false}
+    organizer="Robin Calderon"
+    phone="+1 (983) 460-3122"
+    protest={true} />
+  <ShowCom
+    bring={0}
+    duesPayingMember={false}
+    email="paigetyson@comvey.com"
+    firstName="Paige"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fa61dd489a075b25dc"
+    lastName="Tyson"
+    nextLandL={false}
+    organizer="Meyers Conley"
+    phone="+1 (852) 459-3181"
+    protest={true} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={false}
+    email="ermastephens@comvey.com"
+    firstName="Erma"
+    futureEvents={Array []}
+    id="58cc02fafcf1978cbc11a2b5"
+    lastName="Stephens"
+    nextLandL={false}
+    organizer="Genevieve Hodge"
+    phone="+1 (975) 497-2526"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={true}
+    email="rasmussenwalls@comvey.com"
+    firstName="Rasmussen"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02fa10ea2399498c60f1"
+    lastName="Walls"
+    nextLandL={false}
+    organizer="Patti Hurley"
+    phone="+1 (949) 422-3076"
+    protest={false} />
+  <ShowCom
+    bring={4}
+    duesPayingMember={true}
+    email="prestonbarron@comvey.com"
+    firstName="Preston"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        },
+        Object {
+          "id": 4,
+          "name": "Other"
+        }
+      ]
+    }
+    id="58cc02faf15340b85ddcaf4f"
+    lastName="Barron"
+    nextLandL={false}
+    organizer="Lorna Britt"
+    phone="+1 (833) 440-3443"
+    protest={true} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={true}
+    email="melendezmalone@comvey.com"
+    firstName="Melendez"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fa0b00b6bbabb6168d"
+    lastName="Malone"
+    nextLandL={true}
+    organizer="Shelton Olsen"
+    phone="+1 (876) 533-3991"
+    protest={false} />
+  <ShowCom
+    bring={4}
+    duesPayingMember={false}
+    email="morrisonmoses@comvey.com"
+    firstName="Morrison"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        },
+        Object {
+          "id": 4,
+          "name": "Other"
+        }
+      ]
+    }
+    id="58cc02fa76c0d5fadf6ffc00"
+    lastName="Moses"
+    nextLandL={false}
+    organizer="Josefa Wright"
+    phone="+1 (958) 426-2788"
+    protest={false} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={true}
+    email="campbellscott@comvey.com"
+    firstName="Campbell"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        },
+        Object {
+          "id": 4,
+          "name": "Other"
+        }
+      ]
+    }
+    id="58cc02fa83d6a246797df714"
+    lastName="Scott"
+    nextLandL={true}
+    organizer="Carrillo Fuller"
+    phone="+1 (969) 463-3342"
+    protest={true} />
+  <ShowCom
+    bring={2}
+    duesPayingMember={false}
+    email="lilianaboyle@comvey.com"
+    firstName="Liliana"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        },
+        Object {
+          "id": 4,
+          "name": "Other"
+        }
+      ]
+    }
+    id="58cc02faa27c33317f6334d6"
+    lastName="Boyle"
+    nextLandL={true}
+    organizer="Lindsay Jones"
+    phone="+1 (826) 483-3391"
+    protest={false} />
+  <ShowCom
+    bring={2}
+    duesPayingMember={false}
+    email="marcellanorton@comvey.com"
+    firstName="Marcella"
+    futureEvents={Array []}
+    id="58cc02fa263a33dd4aeebe3b"
+    lastName="Norton"
+    nextLandL={false}
+    organizer="Clemons Foley"
+    phone="+1 (911) 535-3041"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={true}
+    email="stacithomas@comvey.com"
+    firstName="Staci"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02fab45535706848c5c1"
+    lastName="Thomas"
+    nextLandL={false}
+    organizer="Meyer Charles"
+    phone="+1 (967) 420-3957"
+    protest={false} />
+  <ShowCom
+    bring={0}
+    duesPayingMember={true}
+    email="claytonnorman@comvey.com"
+    firstName="Clayton"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02faf2a7ed5c54249420"
+    lastName="Norman"
+    nextLandL={true}
+    organizer="Johnston Daniel"
+    phone="+1 (890) 400-3953"
+    protest={false} />
+  <ShowCom
+    bring={2}
+    duesPayingMember={false}
+    email="gutierrezperez@comvey.com"
+    firstName="Gutierrez"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        },
+        Object {
+          "id": 4,
+          "name": "Other"
+        }
+      ]
+    }
+    id="58cc02fa78d08cb55d822bde"
+    lastName="Perez"
+    nextLandL={true}
+    organizer="Noelle Dunn"
+    phone="+1 (910) 450-3176"
+    protest={false} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={false}
+    email="frazierjefferson@comvey.com"
+    firstName="Frazier"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fa976c6d481ec5a826"
+    lastName="Jefferson"
+    nextLandL={false}
+    organizer="Bowen Snider"
+    phone="+1 (885) 509-2694"
+    protest={false} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={true}
+    email="chapmanfuentes@comvey.com"
+    firstName="Chapman"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        }
+      ]
+    }
+    id="58cc02fadabb5108e65975e7"
+    lastName="Fuentes"
+    nextLandL={false}
+    organizer="Alberta Richard"
+    phone="+1 (826) 477-3458"
+    protest={true} />
+  <ShowCom
+    bring={0}
+    duesPayingMember={true}
+    email="freidaerickson@comvey.com"
+    firstName="Freida"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fac8b25bdc6f698073"
+    lastName="Erickson"
+    nextLandL={true}
+    organizer="Crawford Fletcher"
+    phone="+1 (918) 580-2100"
+    protest={true} />
+  <ShowCom
+    bring={0}
+    duesPayingMember={false}
+    email="kerrycochran@comvey.com"
+    firstName="Kerry"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02faaf61c24621918f88"
+    lastName="Cochran"
+    nextLandL={true}
+    organizer="Pam Randall"
+    phone="+1 (854) 575-2756"
+    protest={true} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={false}
+    email="millieguzman@comvey.com"
+    firstName="Millie"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        }
+      ]
+    }
+    id="58cc02fa8fdda16ea132b30a"
+    lastName="Guzman"
+    nextLandL={false}
+    organizer="Solomon Sparks"
+    phone="+1 (833) 410-2799"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={false}
+    email="rubyemerson@comvey.com"
+    firstName="Ruby"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        },
+        Object {
+          "id": 4,
+          "name": "Other"
+        }
+      ]
+    }
+    id="58cc02fa67f5c5e71e16a52e"
+    lastName="Emerson"
+    nextLandL={false}
+    organizer="Natalia Winters"
+    phone="+1 (810) 525-3380"
+    protest={false} />
+  <ShowCom
+    bring={4}
+    duesPayingMember={false}
+    email="valentinehunt@comvey.com"
+    firstName="Valentine"
+    futureEvents={Array []}
+    id="58cc02fa25f22cbf176df20c"
+    lastName="Hunt"
+    nextLandL={false}
+    organizer="Rivas Webster"
+    phone="+1 (805) 590-3229"
+    protest={true} />
+  <ShowCom
+    bring={4}
+    duesPayingMember={true}
+    email="heleneodonnell@comvey.com"
+    firstName="Helene"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fa70f6a2e12c4f190b"
+    lastName="Odonnell"
+    nextLandL={true}
+    organizer="Earline Carver"
+    phone="+1 (913) 507-3157"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={false}
+    email="mccrayrich@comvey.com"
+    firstName="Mccray"
+    futureEvents={Array []}
+    id="58cc02fab6e8013a451905cd"
+    lastName="Rich"
+    nextLandL={false}
+    organizer="Walsh Suarez"
+    phone="+1 (894) 588-2782"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={true}
+    email="rosemckay@comvey.com"
+    firstName="Rose"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fab78a6d22f16c1f45"
+    lastName="Mckay"
+    nextLandL={false}
+    organizer="Bette Holland"
+    phone="+1 (966) 568-2273"
+    protest={true} />
+  <ShowCom
+    bring={2}
+    duesPayingMember={false}
+    email="williamsoncarroll@comvey.com"
+    firstName="Williamson"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02faf126cebf08ff2708"
+    lastName="Carroll"
+    nextLandL={true}
+    organizer="Terrell Velez"
+    phone="+1 (960) 559-2991"
+    protest={true} />
+  <ShowCom
+    bring={3}
+    duesPayingMember={false}
+    email="lethawaller@comvey.com"
+    firstName="Letha"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        }
+      ]
+    }
+    id="58cc02faf80bf7f113378e84"
+    lastName="Waller"
+    nextLandL={true}
+    organizer="Sheppard Schwartz"
+    phone="+1 (896) 446-2178"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={false}
+    email="vickimorris@comvey.com"
+    firstName="Vicki"
+    futureEvents={Array []}
+    id="58cc02fa44c587a136a2da35"
+    lastName="Morris"
+    nextLandL={true}
+    organizer="Janet Miranda"
+    phone="+1 (866) 552-2064"
+    protest={false} />
+  <ShowCom
+    bring={0}
+    duesPayingMember={true}
+    email="vaughanacevedo@comvey.com"
+    firstName="Vaughan"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02fa1cb05c7fb4cdc625"
+    lastName="Acevedo"
+    nextLandL={true}
+    organizer="Alejandra Horton"
+    phone="+1 (984) 543-3325"
+    protest={false} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={true}
+    email="benitadelgado@comvey.com"
+    firstName="Benita"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        },
+        Object {
+          "id": 3,
+          "name": "Volunteering"
+        }
+      ]
+    }
+    id="58cc02fae4affe552dc88165"
+    lastName="Delgado"
+    nextLandL={true}
+    organizer="Sheree Valencia"
+    phone="+1 (927) 481-3950"
+    protest={true} />
+  <ShowCom
+    bring={1}
+    duesPayingMember={true}
+    email="kemporr@comvey.com"
+    firstName="Kemp"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        },
+        Object {
+          "id": 2,
+          "name": "Planet and People First Demonstration"
+        }
+      ]
+    }
+    id="58cc02fa9eb0bffefa4c6e38"
+    lastName="Orr"
+    nextLandL={true}
+    organizer="Ortega Mccall"
+    phone="+1 (994) 440-2004"
+    protest={true} />
+  <ShowCom
+    bring={0}
+    duesPayingMember={false}
+    email="flemingcannon@comvey.com"
+    firstName="Fleming"
+    futureEvents={
+      Array [
+        Object {
+          "id": 1,
+          "name": "Trump Tuesday Protest"
+        }
+      ]
+    }
+    id="58cc02fa7b8df7d3b08aaa84"
+    lastName="Cannon"
+    nextLandL={false}
+    organizer="Gould Livingston"
+    phone="+1 (916) 421-2466"
+    protest={false} />
+</div>
+`;

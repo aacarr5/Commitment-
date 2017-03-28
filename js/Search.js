@@ -24,7 +24,7 @@ const Search = React.createClass({
 		return(
 			<div className='search'>
 				<header className="search-header">
-					<h1> Search:</h1>
+					<h1>Search:</h1>
 					<input onChange={this.handleSeachTermChange} className="search-input" value={this.state.searchTerm} type="text" placeholder='search' />					
 				</header> 
 				{this.filterResults(this.state.searchTerm,preLoad.committments).map((com) => {

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1490798693072" clover="3.2.0">
+  <project timestamp="1490798693073" name="All files">
+    <metrics statements="15" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="18" coveredelements="11" complexity="0" loc="15" ncloc="15" packages="1" files="3" classes="3">
+      <file name="FutureEventsShow.js" path="/Users/Andrew/Documents/Portfolio/TPL_APP/CommitmentCard/js/FutureEventsShow.js">
+        <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="Search.js" path="/Users/Andrew/Documents/Portfolio/TPL_APP/CommitmentCard/js/Search.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="120" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="31" count="90" type="stmt"/>
+      </file>
+      <file name="ShowCom.js" path="/Users/Andrew/Documents/Portfolio/TPL_APP/CommitmentCard/js/ShowCom.js">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
